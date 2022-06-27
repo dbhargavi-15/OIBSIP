@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <mata http-equiv="X-UA-compatible"content="IE=edge">
+            <meta name="viewport"content="width=device-width,initial-scale=1.0">
+            <titel>MY TODO LIST</titel>
+            <link rel="stylesheet" href="main.css"/>
+        </mata>
+    </head>
+    <body>
+    <div class="main">
+    <h1 class="title">Mother Teresa</h1>
+    <p class="time-line"></p>
+    <div class="image">
+    <img src="file:///C:/Users/DELL%203493/OneDrive/Desktop/Mother-Teresa.webp">
+    <figcaption></figcaption>
+    </div>
+    <div class="biography">
+        <h2>Biography</h2>
+        <p class="bio">
+        </p>
+        <br></br>
+    </div>
